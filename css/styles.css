@@ -1,0 +1,54 @@
+body{
+  background-color: #fff5fd;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+}
+h2{
+  text-align: center;
+  font-family: 'Cormorant Garamond', serif;
+}
+p{
+  font-family: 'Cardo', serif;
+  font-size: 25px;
+}
+.flat{
+  height: 70px;
+  width:70px;
+
+}
+.flat1{
+  height: 20px;
+  width: 20px;
+}
+.earth{
+position: relative;
+left: 720px;
+}
+.shield{
+  position: relative;
+  left:710px;
+}
+.content{
+  text-align: center;
+}
+.distance{
+  height: 100px;
+  width:100px;
+  position: relative;
+  left: 700px;
+  word-wrap: normal;
+}
+.m-w{
+  height: 100px;
+  width:100px;
+  position: relative;
+  left: 700px;
+  word-wrap: normal;
+}
+.huge{
+font-size: 10rem;
+}
+/* https://img-premium.flaticon.com/png/512/4310/4310446.png?token=exp=1622607897~hmac=d27d2f03f9b7e78b7b4791228010c204 */
